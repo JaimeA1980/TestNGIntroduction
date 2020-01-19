@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="9" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="72395" started-at="2020-01-16T22:03:34 EST" finished-at="2020-01-16T22:04:47 EST">
+    <groups>
+      <group name="1stXMLTest">
+        <method signature="HW.empAdd(java.lang.String, java.lang.String)[pri:0, instance:com.class03.HW@627551fb]" name="empAdd" class="com.class03.HW"/>
+      </group> <!-- 1stXMLTest -->
+    </groups>
+    <test name="Regression Test" duration-ms="72395" started-at="2020-01-16T22:03:34 EST" finished-at="2020-01-16T22:04:47 EST">
+      <class name="com.class03.HW">
+        <test-method status="PASS" signature="urlAddEmp()[pri:0, instance:com.class03.HW@627551fb]" name="urlAddEmp" is-config="true" duration-ms="11579" started-at="2020-01-16T22:03:34 EST" finished-at="2020-01-16T22:03:46 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlAddEmp -->
+        <test-method status="PASS" signature="empAdd(java.lang.String, java.lang.String)[pri:0, instance:com.class03.HW@627551fb]" name="empAdd" duration-ms="2796" started-at="2020-01-16T22:03:46 EST" data-provider="empData" finished-at="2020-01-16T22:03:49 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hugo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Basay]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- empAdd -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.class03.HW@627551fb]" name="teardown" is-config="true" duration-ms="751" started-at="2020-01-16T22:03:49 EST" finished-at="2020-01-16T22:03:49 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="urlAddEmp()[pri:0, instance:com.class03.HW@627551fb]" name="urlAddEmp" is-config="true" duration-ms="10483" started-at="2020-01-16T22:03:49 EST" finished-at="2020-01-16T22:04:00 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlAddEmp -->
+        <test-method status="PASS" signature="empAdd(java.lang.String, java.lang.String)[pri:0, instance:com.class03.HW@627551fb]" name="empAdd" duration-ms="2706" started-at="2020-01-16T22:04:00 EST" data-provider="empData" finished-at="2020-01-16T22:04:03 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ivan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Zamorano]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- empAdd -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.class03.HW@627551fb]" name="teardown" is-config="true" duration-ms="960" started-at="2020-01-16T22:04:03 EST" finished-at="2020-01-16T22:04:04 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="urlAddEmp()[pri:0, instance:com.class03.HW@627551fb]" name="urlAddEmp" is-config="true" duration-ms="10573" started-at="2020-01-16T22:04:04 EST" finished-at="2020-01-16T22:04:14 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlAddEmp -->
+        <test-method status="PASS" signature="empAdd(java.lang.String, java.lang.String)[pri:0, instance:com.class03.HW@627551fb]" name="empAdd" duration-ms="3153" started-at="2020-01-16T22:04:14 EST" data-provider="empData" finished-at="2020-01-16T22:04:17 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cristian]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Galvez]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- empAdd -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.class03.HW@627551fb]" name="teardown" is-config="true" duration-ms="723" started-at="2020-01-16T22:04:17 EST" finished-at="2020-01-16T22:04:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="urlAddEmp()[pri:0, instance:com.class03.HW@627551fb]" name="urlAddEmp" is-config="true" duration-ms="10399" started-at="2020-01-16T22:04:18 EST" finished-at="2020-01-16T22:04:28 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlAddEmp -->
+        <test-method status="PASS" signature="empAdd(java.lang.String, java.lang.String)[pri:0, instance:com.class03.HW@627551fb]" name="empAdd" duration-ms="3724" started-at="2020-01-16T22:04:28 EST" data-provider="empData" finished-at="2020-01-16T22:04:32 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Eduardo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vargas]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- empAdd -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.class03.HW@627551fb]" name="teardown" is-config="true" duration-ms="727" started-at="2020-01-16T22:04:32 EST" finished-at="2020-01-16T22:04:33 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="urlAddEmp()[pri:0, instance:com.class03.HW@627551fb]" name="urlAddEmp" is-config="true" duration-ms="10443" started-at="2020-01-16T22:04:33 EST" finished-at="2020-01-16T22:04:43 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlAddEmp -->
+        <test-method status="PASS" signature="empAdd(java.lang.String, java.lang.String)[pri:0, instance:com.class03.HW@627551fb]" name="empAdd" duration-ms="2609" started-at="2020-01-16T22:04:43 EST" data-provider="empData" finished-at="2020-01-16T22:04:46 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Arturo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vidal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- empAdd -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.class03.HW@627551fb]" name="teardown" is-config="true" duration-ms="727" started-at="2020-01-16T22:04:46 EST" finished-at="2020-01-16T22:04:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.class03.HW -->
+      <class name="com.class03.AlwaysRun">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.class03.AlwaysRun@3701eaf6]" name="beforeSuite" is-config="true" duration-ms="10" started-at="2020-01-16T22:03:34 EST" finished-at="2020-01-16T22:03:34 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:com.class03.AlwaysRun@3701eaf6]" name="AfterSuite" is-config="true" duration-ms="1" started-at="2020-01-16T22:04:47 EST" finished-at="2020-01-16T22:04:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- com.class03.AlwaysRun -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
